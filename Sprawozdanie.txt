@@ -1,2 +1,3 @@
-Program przedstawia zgadywanie liczby poprzez narysowanie jej. Nie jest to idealny model, bowiem często zdarzają się błędy, co zaznaczył sam autor. Również jest
-pokazane statyczne modele i poprawne zgadywanie liczby.
+Program przedstawia zgadywanie liczby poprzez narysowanie jej. Należy uruchomić plik drawNumber.py i ukaże się okienko gdzie należy narysować cyfrę, następnie po naciśnięciu klawisza enter program wskazuje przewidywaną liczbę. 
+Nie jest to idealny model, bowiem często zdarzają się błędy, co zaznaczył sam autor. Również są
+pokazane statyczne modele i poprawne zgadywanie liczby. W tym przypadku należy uruchomić plik testNetwork.py
