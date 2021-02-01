@@ -1,0 +1,2 @@
+Program przedstawia zgadywanie liczby poprzez narysowanie jej. Nie jest to idealny model, bowiem często zdarzają się błędy, co zaznaczył sam autor. Również jest
+pokazane statyczne modele i poprawne zgadywanie liczby.
